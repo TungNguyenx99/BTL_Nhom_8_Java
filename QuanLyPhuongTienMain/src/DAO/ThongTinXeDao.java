@@ -15,7 +15,7 @@ import java.util.List;
 
 /**
  *
- * @author Admin
+ * @author nghuunghiaa111 
  */
 public class ThongTinXeDao {
     public boolean insert(ThongTinXe item) throws Exception {
